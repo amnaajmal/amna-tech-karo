@@ -1,0 +1,17 @@
+button{
+	padding: 16px;
+	background-color: red;
+	color: pink;
+	border: 1px solid orange;
+	text-align: center;
+}
+p{
+	color: green;
+	background-color: skyblue;
+	padding: 16px;
+	border: 1px solid blue;
+	display: block;
+}
+body{
+	text-align: center;
+}
